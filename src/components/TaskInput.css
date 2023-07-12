@@ -1,0 +1,24 @@
+.taskInput {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.taskTextInput {
+  border: 2px solid cornflowerblue;
+  padding: 5px 10px;
+  border-radius: 3px;
+  height: 40px;
+  width: 215px;
+}
+
+.addButton {
+  background-color: cornflowerblue;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 3px 12px;
+  border: none;
+  border-radius: 3px;
+  margin-left: 3px;
+}

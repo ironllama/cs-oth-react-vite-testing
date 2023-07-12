@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.tasks {
+  width: 350px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+}

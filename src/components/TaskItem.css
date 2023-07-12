@@ -1,0 +1,28 @@
+.taskLineItem {
+    list-style-type: none;
+}
+
+.taskItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+
+.taskIcon {
+    height: 30px;
+    width: 30px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.iconPath {
+    fill: white;
+}
